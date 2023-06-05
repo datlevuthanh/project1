@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "cd36771f348e84f4d115c2d152b9929badc8df01434d8d1c172344a6481c1133"
+build_start_time: [1684117922, 657027000]
+build_end_time: [1684117922, 688243000]
+inputs:
+  "/Users/datle/StudioProjects/myCaculator/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1684117912, 946574761]
+  "/Users/datle/StudioProjects/myCaculator/macos/Runner/AppDelegate.swift": !private [1683684822, 0]
+  "/Users/datle/StudioProjects/myCaculator/macos/Runner/MainFlutterWindow.swift": !private [1683684822, 0]
